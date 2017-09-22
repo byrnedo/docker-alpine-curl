@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:latest
+FROM alpine:3.6
 
 RUN apk add --update curl && \
     rm -rf /var/cache/apk/*
