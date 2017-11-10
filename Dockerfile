@@ -1,5 +1,5 @@
 FROM alpine:3.6
 
-RUN apk --no-cache curl
+RUN apk add --no-cache curl
 
 ENTRYPOINT ["/usr/bin/curl"]
