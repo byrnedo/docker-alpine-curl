@@ -1,5 +1,5 @@
 # Docker Alpine Curl
-![Docker](https://img.shields.io/badge/Docker Hub Pulls-500M%2B-blue)](https://hub.docker.com/r/byrnedo/alpine-curl)
+![Docker](https://img.shields.io/badge/Docker Hub Pulls-500M%2B-blue)
 
 Like it says, it's a docker image built on alpine with curl installed. Size 5.93 MB.
 
