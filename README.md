@@ -5,6 +5,8 @@ Like it says, it's a docker image built on alpine with curl installed. Size 5.93
 
 Available from docker hub as [byrnedo/alpine-curl](https://hub.docker.com/r/byrnedo/alpine-curl/)
 
+Alpine versions: 3.16, 3.17, 3.18, 3.19
+
 Note: this repo has a github actions scheduled build nightly to keep up with the alpine base image. 
 So there should be fresh images on docker hub even without commits here.
 
