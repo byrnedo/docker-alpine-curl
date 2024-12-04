@@ -13,4 +13,3 @@ So there should be fresh images on docker hub even without commits here.
 ## Usage
 
     docker run --rm byrnedo/alpine-curl https://www.google.com
-
