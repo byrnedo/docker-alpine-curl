@@ -24,7 +24,7 @@ jobs:
   build:
     strategy:
       matrix:
-        version: [ 3, 3.19, 3.20, "3.21", latest ]
+        version: [ 3, 3.19, "3.20", "3.21", latest ]
     runs-on: ubuntu-latest
     permissions:
       contents: read
